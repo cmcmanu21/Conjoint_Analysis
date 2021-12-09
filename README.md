@@ -4,7 +4,7 @@
 ----
 ### Overview:
 
-This was an assignment from Dr. Sangkil Moon's Consumer Analytics course at UNC Charlotte's School of Data Science. The goal was to perform a conjoint analysis using SAS to assist with the development of a new product from a shoe manufacturer. Then, based on the findings from the conjoint analysis, compute the utuility, and importance weights for each attribute. Finally, provide suggestions on what shoe design would be most profitable for the shoe manufacturer. 
+This was an assignment from Dr. Sangkil Moon's Consumer Analytics course at UNC Charlotte's School of Data Science. The goal was to perform a conjoint analysis using SAS to assist with the development of a new product from a shoe manufacturer. Then, based on the findings from the conjoint analysis, compute the utility, and importance weights for each attribute. Finally, provide suggestions on what shoe design would be most profitable for the shoe manufacturer. 
 
 ### Tasks to be performed:
 
@@ -21,7 +21,7 @@ This was an assignment from Dr. Sangkil Moon's Consumer Analytics course at UNC 
 ----
 ### What is the importance of a conjoint analysis?
 
-Conjoint analysis provides additional insights into consumer preferences. These additional insights can in-turn allow a company to select various attributes when designing a new product that the majority of consumers favor to increase the likelihood of them purchasing that product. Furthurmore, conjoint analysis can help with pricing as it can help with prediting the response from consumers over various pricing levels. By breaking the product design process into levels, and testing the different combinations, conjoint analysis can assist with selecting the optimal path to maximize profits. 
+The conjoint analysis provides additional insights into consumer preferences. These additional insights can in turn allow a company to select various attributes when designing a new product that the majority of consumers favor increasing the likelihood of them purchasing that product. Furthermore, conjoint analysis can help with pricing as it can help with predicting the response from consumers over various pricing levels. By breaking the product design process into levels, and testing the different combinations, conjoint analysis can assist with selecting the optimal path to maximize profits. 
 
 ----
 ### Additional Resources:
