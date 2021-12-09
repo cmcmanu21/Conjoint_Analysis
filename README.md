@@ -1,2 +1,10 @@
 # Conjoint_Analysis
-Used SAS to perform a conjoint analysis for a shoe manufacturer looking to develop a new product
+----
+## Author: Christopher McManus
+----
+### The Task:
+----
+### Additional Resources:
+
+1. https://www.youtube.com/watch?v=Su2qIrTmv1c
+
